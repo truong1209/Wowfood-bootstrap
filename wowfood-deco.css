@@ -1,0 +1,163 @@
+.nav-link
+{
+    text-decoration: none;
+    color: #ff6b81;
+}
+.search-box
+{
+    height: 300px;
+    background-image: url(./img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    width: 100%;
+}
+.search-boxbutton
+{
+    padding-top: 100px;    
+}
+.search-boxbutton button
+{
+    border-radius: 5px;
+    border-color: transparent;
+    background-color: #ff6b81;
+    color: white;
+    height: 32px;
+}
+.search-boxbutton input
+{
+    border-radius: 5px;
+    border-color: transparent;
+    height: 32px;
+    width: 40%;
+}
+.tieude1
+{
+    text-align: center;   
+    margin: 40px; 
+}
+.explore-food img
+{
+    margin: 40px;
+    border-radius: 20px;
+}
+.chuthich1
+{
+    text-align: center;
+}
+.chuthich1 h2
+{
+    transform: translate(0, -150px);
+    color: #fff;
+    font-family:Arial, Helvetica, sans-serif
+}
+.tieude2
+{
+    text-align: center;   
+    padding-top: 40px;
+    padding-bottom: 20px; 
+}
+.main1
+{
+    background-color: #ececec;
+}
+.button2
+{
+    border-radius: 5px;
+    border-color: transparent;
+    background-color: #ff6b81;
+    color: white;
+    height: 32px;
+}
+.price-tag img
+{
+    float: left;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 100px;
+    height: auto;
+}
+.card
+{
+    border-radius: 10px;
+}
+.saf a
+{
+    text-align: center;
+    text-decoration: none;
+    color: #ff6b81;
+}
+.saf
+{    
+    margin-top: 50px;
+    padding-bottom: 30px;
+}
+.socialandcopyright
+{
+    text-align: center;
+    text-decoration: none;
+    margin-top: 10px;
+}
+.tlucse 
+{
+    text-decoration: none;
+    color: #ff6b81;
+}
+.social-network
+{
+    margin-top: 20px;
+}
+.copyright
+{
+    margin-bottom: 20px;
+}
+.dashb
+{
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+.footer-text{
+    padding-top: 13px;
+    padding-bottom: 5px;
+}
+.para1{
+    font-size: 15px;
+    font-weight: none;
+}
+.footer
+{
+    background-color: #ff4757;
+}
+.dashboard
+{
+    background-color: #f1f2f6;
+    padding: 50px;
+}
+.sed
+{
+    text-decoration: none;
+    color: #ff6b81;
+}
+.table img
+{
+    width: 20%;
+    height: 20%;
+}
+.deliver1
+{
+    color: #339834;
+}
+.deliver2
+{
+    color: #339834;
+}
+.deliver3
+{
+    color: #fe1919;
+}
+.footer-text a
+{
+    text-decoration: none;
+}
